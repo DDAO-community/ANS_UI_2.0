@@ -54,3 +54,27 @@ html {
   color: theme('colors.prim2') !important;
 }
 
+
+.note-card {
+  background-color: lightgray;
+  border-radius: 1.2rem;
+  padding: 1rem;
+  margin: 0.5rem;
+  color: black;
+}
+
+.note-card h1 {
+  font-weight: bolder;
+}
+
+.tags {
+  margin-top: 1rem;
+}
+
+.tag {
+  margin: 3px;
+  background-color: grey;
+  border-radius: 10px;
+  padding: 3px 5px;
+  font-size: smaller;
+}
