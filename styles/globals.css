@@ -61,6 +61,8 @@ html {
   padding: 1rem;
   margin: 0.5rem;
   color: black;
+  height: 300px;
+  overflow-y: scroll;
 }
 
 .note-card h1 {
@@ -69,6 +71,7 @@ html {
 
 .tags {
   margin-top: 1rem;
+  color: white;
 }
 
 .tag {

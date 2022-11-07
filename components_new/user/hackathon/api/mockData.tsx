@@ -95,11 +95,12 @@ export const mockData = [
                 address_to: "0xa6f969045641cf486a747a2688f3a5a6d43cd0d8",
                 metadata: {
                     body: "流入大海，是否会枯竭交给宇宙决定吧",
-                    title: " ipfs=永恒吗？",
+                    title: "ipfs=永恒吗？",
                     author: [
                         "https://crossbell.io/@ada-6018-ddao-ditaoditaoditao",
                     ],
                     type_on_platform: ["PostNote"],
+                    tags: ["ipsf", "去中心", "存储"],
                 },
                 platform: "cori",
                 related_urls: [
@@ -135,6 +136,7 @@ export const mockData = [
                         "https://crossbell.io/@ada-6018-ddao-ditaoditaoditao",
                     ],
                     type_on_platform: ["PostNote"],
+                    tags: ["策展"],
                 },
                 platform: "cori",
                 related_urls: [
@@ -206,6 +208,7 @@ export const mockData = [
                         "https://crossbell.io/@ada-6018-ddao-ditaoditaoditao",
                     ],
                     type_on_platform: ["PostNote"],
+                    tags: ["Cori", "升级"],
                 },
                 platform: "cori",
                 related_urls: [
