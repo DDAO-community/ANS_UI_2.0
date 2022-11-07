@@ -2,7 +2,7 @@
   <a href="https://decent.land">
     <img src="./img/new-logo.png" height="200">
   </a>
-  <h3 align="center">dAgora: co-writing in web3</h3>
+  <h3 align="center">dAgora: Co-writing in web3</h3>
 </p>
 
 ## What is dAgora ?
