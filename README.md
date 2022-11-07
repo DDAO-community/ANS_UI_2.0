@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="https://decent.land">
-    <img src="./img/new-logo.png" height="200">
-  </a>
+    <img src="./img/agora-logo.png" height="200">
   <h3 align="center">dAgora: Co-writing in web3</h3>
 </p>
 
-## What is dAgora ?
+## What is dAgora?
 dAgora is a community service that helps with the creation, collection, and reconstruction of content.
 
 ## Getting Started
