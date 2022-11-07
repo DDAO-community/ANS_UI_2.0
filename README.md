@@ -13,7 +13,8 @@ Install the dependencies with `yarn install` and launch the project with `npm ru
 
 The mentioned commands will open a `http://localhost:3000/` tab in your browser.
 
-We recommand visit [adazz's ar.page](http://adazz.localhost:3000/) to see the final result. That's all the messages collected from discord and now pushed to block chain.
+We recommand visit [adazz's ar.page](http://adazz.localhost:3000/) to see the final result. That's all the messages collected from discord and now pushed to block chain. Here's a screenshot of how her arpage looks like:
+![demo arpage](./img/adazz-ar-page.png)
 
 ## Serve with discord bot
 The discord bot [cori](https://github.com/DDAO-community/Cori) can collect messages and push them to [crossbell](https://crossbell.io/feed).
